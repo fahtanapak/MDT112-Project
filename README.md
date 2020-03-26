@@ -21,3 +21,5 @@
 3. แสดงรูปเเกน x,y,z เป็นแกน3D
 ### Manipulation
 - Touch Screen Display
+### Flowchart
+![alt text](https://github.com/fahtanapak/MDT112-Project/blob/master/images/Flowchart.svg "Logo Title Text")
